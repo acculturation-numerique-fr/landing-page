@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# 🐱 Meow Meow
 
-## Project info
+> **The first dry food that looks as good as your decoration.** > *La première marque de croquettes aussi belle que votre intérieur.*
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fmeow-meow-lover.lovable.app%2F&label=Live%20Demo&style=flat-square&logo=vercel&color=E07A5F)](https://meow-meow-lover.lovable.app/)
+[![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-ff5e5e?style=flat-square&logo=heart)](https://lovable.dev)
+[![Vibecoding](https://img.shields.io/badge/Vibecoding-Certified-00F2A6?style=flat-square&logo=openai)](https://github.com/topics/vibecoding)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ About the Project
 
-**Use Lovable**
+Welcome to the **Meow Meow** repository. This project was built using the **Vibecoding methodology**: created with AI prompts, refined by human taste, and deployed instantly.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+We believe pet food packaging shouldn't be hidden in a cupboard. It should be a lifestyle object.
 
-Changes made via Lovable will be committed automatically to this repo.
+**🎨 The Vibe:**
+* **Palette:** Creamy Latte, Soft Rose, Terracotta.
+* **Mood:** Cozy, Minimalist, Premium Cute.
+* **Tech:** Fast, Responsive, Beautiful.
 
-**Use your preferred IDE**
+👉 **[See the Live Site](https://meow-meow-lover.lovable.app/)**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ The Ingredients (Tech Stack)
 
-Follow these steps:
+Just like our kibbles, our code uses only the best ingredients:
+
+* ⚡ **Vite** - For ultra-fast development.
+* ⚛️ **React** - The library for web and native user interfaces.
+* 📘 **TypeScript** - For type-safe code quality.
+* 🎨 **Tailwind CSS** - For styling at the speed of thought.
+* 🧩 **shadcn/ui** - For beautiful, accessible components.
+* 💖 **Lovable** - The AI engine behind the generation.
+
+---
+
+## 🧶 Getting Started (Local Development)
+
+Want to peek inside the kitchen? You can clone this repo and work locally.
+
+### Prerequisites
+You need **Node.js** & **npm** installed on your machine.
+
+### Installation Recipe
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# 1. Clone the repository (Grab the code)
+git clone https://github.com/test-user-cyber/meow-meow-lover.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 2. Enter the kitchen (Navigate to folder)
+cd meow-meow-landing
 
-# Step 3: Install the necessary dependencies.
+# 3. Prep the ingredients (Install dependencies)
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Start cooking! (Run dev server)
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
