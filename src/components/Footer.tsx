@@ -1,7 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Instagram, Facebook, Twitter } from "lucide-react";
-import logoSticker from "@/assets/logo-sticker.png";
 
 const Footer = () => {
   return (
@@ -11,7 +10,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="lg:col-span-2">
             <img
-              src={logoSticker}
+              src="/logo-light.png"
               alt="Meow Meow"
               className="w-16 h-16 mb-4"
             />
@@ -100,7 +99,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-creamy-latte/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-creamy-latte/60 text-sm">
-              © 2024 Meow Meow. Tous droits réservés.
+              © 2026 Meow Meow. Tous droits réservés.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="text-creamy-latte/60 hover:text-creamy-latte transition-colors">

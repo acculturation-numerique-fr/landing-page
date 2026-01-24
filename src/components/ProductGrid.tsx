@@ -9,6 +9,7 @@ interface Product {
   price: string;
   accentColor: string;
   accentBg: string;
+  image: string;
 }
 
 const products: Product[] = [
@@ -19,6 +20,7 @@ const products: Product[] = [
     price: "24.90€",
     accentColor: "text-primary",
     accentBg: "bg-primary/10",
+    image: "/packaging-front.png",
   },
   {
     id: 2,
@@ -27,6 +29,7 @@ const products: Product[] = [
     price: "24.90€",
     accentColor: "text-golden-beige",
     accentBg: "bg-golden-beige/20",
+    image: "/packaging-poil-soyeux.png",
   },
   {
     id: 3,
@@ -35,6 +38,7 @@ const products: Product[] = [
     price: "24.90€",
     accentColor: "text-soft-rose",
     accentBg: "bg-secondary",
+    image: "/packaging-saumon.png",
   },
   {
     id: 4,
@@ -43,6 +47,7 @@ const products: Product[] = [
     price: "24.90€",
     accentColor: "text-matcha-green",
     accentBg: "bg-matcha-green/20",
+    image: "/packaging-vitamines.png",
   },
 ];
 
@@ -53,9 +58,13 @@ const ProductCard = ({ product, index }: { product: Product; index: number }) =>
       style={{ animationDelay: `${index * 100}ms` }}
     >
       <div className="bg-card rounded-3xl p-6 shadow-soft hover:shadow-card transition-all duration-300 hover:-translate-y-2">
-        {/* Product Image Placeholder */}
+        {/* Product Image */}
         <div className={`${product.accentBg} rounded-2xl aspect-square mb-4 flex items-center justify-center overflow-hidden relative`}>
-          <div className="text-6xl">🐱</div>
+          <img
+            src={product.image}
+            alt={product.name}
+            className="w-full h-full object-contain p-4"
+          />
           <div className={`absolute top-3 right-3 ${product.accentBg} rounded-full px-3 py-1`}>
             <span className={`text-xs font-semibold ${product.accentColor}`}>Nouveau</span>
           </div>

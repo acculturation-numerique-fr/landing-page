@@ -50,7 +50,7 @@ You need **Node.js** & **npm** installed on your machine.
 git clone https://github.com/test-user-cyber/meow-meow-lover.git
 
 # 2. Enter the kitchen (Navigate to folder)
-cd meow-meow-landing
+cd meow-meow-lover
 
 # 3. Prep the ingredients (Install dependencies)
 npm i
