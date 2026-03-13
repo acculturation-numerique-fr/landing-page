@@ -48,8 +48,12 @@ graph LR
     D --> E[Vibecoding]
     E --> F[Deployment]
     
-    style D fill:#f9f,stroke:#333,stroke-width:2px
-    style E fill:#bbf,stroke:#333,stroke-width:2px
+    style A fill:#eee,stroke:#333,stroke-width:1px
+    style B fill:#eee,stroke:#333,stroke-width:1px
+    style C fill:#eee,stroke:#333,stroke-width:1px
+    style D fill:#eee,stroke:#333,stroke-width:1px
+    style E fill:#eee,stroke:#333,stroke-width:1px
+    style F fill:#eee,stroke:#333,stroke-width:1px
 ```
 
 ### The Final Result
