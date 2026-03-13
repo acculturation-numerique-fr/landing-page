@@ -1,60 +1,65 @@
-# 🐱 Meow Meow
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+  <img src="public/logo-light.png" alt="Meow Meow Logo" width="450" />
+  <br />
+  <img src="https://img.shields.io/badge/Architecture-Vibe_Coding-6366f1?style=for-the-badge" alt="Architecture Badge" />
+  <img src="https://img.shields.io/badge/Visuals-DNVB_Style-ff69b4?style=for-the-badge" alt="Visuals Badge" />
+  <img src="https://img.shields.io/badge/Stack-React_/_Vite-61dafb?style=for-the-badge" alt="Stack Badge" />
+  <img src="https://img.shields.io/badge/Branding-Premium_Pet_Care-000000?style=for-the-badge" alt="Branding Badge" />
+</div>
+<!-- markdownlint-enable MD033 -->
 
-> **The first dry food that looks as good as your decoration.** > *La première marque de croquettes aussi belle que votre intérieur.*
+# Master Course: Meow Meow Aesthetic Landing Page
 
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fmeow-meow-lover.lovable.app%2F&label=Live%20Demo&style=flat-square&logo=vercel&color=E07A5F)](https://meow-meow-lover.lovable.app/)
-[![Built with Lovable](https://img.shields.io/badge/Built%20with-Lovable-ff5e5e?style=flat-square&logo=heart)](https://lovable.dev)
-[![Vibecoding](https://img.shields.io/badge/Vibecoding-Certified-00F2A6?style=flat-square&logo=openai)](https://github.com/topics/vibecoding)
+Welcome to the **complete chronological handbook** for the Meow Meow project. This project is a live demonstration of how an AI coding agent (**Antigravity**) can transform a strategic vision into a premium, design-first DNVB (Digital Native Vertical Brand).
 
----
-
-## ✨ About the Project
-
-Welcome to the **Meow Meow** repository. This project was built using the **Vibecoding methodology**: created with AI prompts, refined by human taste, and deployed instantly.
-
-We believe pet food packaging shouldn't be hidden in a cupboard. It should be a lifestyle object.
-
-**🎨 The Vibe:**
-* **Palette:** Creamy Latte, Soft Rose, Terracotta.
-* **Mood:** Cozy, Minimalist, Premium Cute.
-* **Tech:** Fast, Responsive, Beautiful.
-
-👉 **[See the Live Site](https://meow-meow-lover.lovable.app/)**
+Meow Meow disrupts the pet food market by bridging cat nutrition and interior design—creating the first pet food product beautiful enough to be part of a home's décor.
 
 ---
 
-## 🛠️ The Ingredients (Tech Stack)
+## Technical Core
 
-Just like our kibbles, our code uses only the best ingredients:
-
-* ⚡ **Vite** - For ultra-fast development.
-* ⚛️ **React** - The library for web and native user interfaces.
-* 📘 **TypeScript** - For type-safe code quality.
-* 🎨 **Tailwind CSS** - For styling at the speed of thought.
-* 🧩 **shadcn/ui** - For beautiful, accessible components.
-* 💖 **Lovable** - The AI engine behind the generation.
+| Layer | Implementation |
+|---|---|
+| **Philosophy** | ![AI-Powered](https://img.shields.io/badge/Philosophy-AI--Powered-6366f1?style=flat-square) |
+| **Interface** | ![Tailwind CSS](https://img.shields.io/badge/Interface-Tailwind_CSS-38bdf8?style=flat-square) ![Shadcn/UI](https://img.shields.io/badge/Components-Shadcn/_UI-000000?style=flat-square) |
+| **Stack** | ![React](https://img.shields.io/badge/Stack-React_18-61dafb?style=flat-square) ![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square) ![Vite](https://img.shields.io/badge/Build-Vite-646cff?style=flat-square) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square) |
 
 ---
+## I. Strategic Framing
 
-## 🧶 Getting Started (Local Development)
+Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission.
 
-Want to peek inside the kitchen? You can clone this repo and work locally.
+### Step 1.1: Defining the Brand Concept
+We established the core strategy to position Meow Meow as an "Aesthetic Pet Food" brand, bridging the gap between pet care and premium interior design.
 
-### Prerequisites
-You need **Node.js** & **npm** installed on your machine.
+> **Excerpt from [Brand Concept MD](<docs/I. Cadrage stratégique/Concept & Stratégie Produit/Prompt —  Concept & Stratégie Produit.md>):**
+> *Objective: Disrupt the market with 'Aesthetic Pet Food' that doesn't need to be hidden in a cupboard.*
+> *Persona: 'The Aesthetic Cat Parent' (Urban dwellers, 25-35, interior design enthusiasts).*
+> *USP: 'The first dry food that looks as good as your decoration.'*
 
-### Installation Recipe
+<div align="center">
+  <img src="docs/I. Cadrage stratégique/Concept & Stratégie Produit/Concept & Stratégie Produit.png" alt="Brand Concept" width="100%" />
+</div>
 
-```sh
-# 1. Clone the repository (Grab the code)
-git clone https://github.com/test-user-cyber/meow-meow-lover.git
+### Step 1.2: Crafting the Brand Identity
+Once the concept was locked, we defined the visual DNA: a balance of "Kawaii-Minimalist" and "High-End" aesthetics to create a warm, premium feel.
 
-# 2. Enter the kitchen (Navigate to folder)
-cd meow-meow-lover
+> **Excerpt from [Brand Identity MD](<docs/I. Cadrage stratégique/Identité de  marque/Prompt —  Identité de Marque.md>):**
+> *Colors: Creamy Latte (#FDFCF0), Soft Rose (#F8D7DA), Terracotta (#E07A5F).*
+> *Typography: M PLUS Rounded 1c (Friendly) & Inter (Clean).*
+> *Vibe: Warm, Rounded, Soft, and Breathing.*
 
-# 3. Prep the ingredients (Install dependencies)
-npm i
+<div align="center">
+  <img src="docs/I. Cadrage stratégique/Identité de  marque/Identité de marque.png" alt="Brand Identity" width="100%" />
+</div>
 
-# 4. Start cooking! (Run dev server)
-npm run dev
-# meow-meow
+### Step 1.3: Strategic Synthesis Deliverable
+All strategic research—from persona mapping to visual DNA—was synthesized into a master blueprint that aligned the brand vision before any code was written.
+
+<div align="center">
+  <img src="docs/I. Cadrage stratégique/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
+</div>
+
+---
