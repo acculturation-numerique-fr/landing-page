@@ -27,12 +27,6 @@ Meow Meow disrupts the pet food market by bridging cat nutrition and interior de
 | **Deployment** | ![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square) |
 
 ---
-## I. Strategic Framing
-
-Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission.
-
-### 1. Project Specifications
-We established our guardrails in the professional strategy documents. These act as the "Contract" between the brand vision and the technical execution.
 
 > [!IMPORTANT]
 > **MVP Scope Definition**: 
@@ -42,10 +36,24 @@ We established our guardrails in the professional strategy documents. These act 
 > - Seamless mobile experience for social media traffic.
 > - **Zero** visual clutter to maintain the "Home Decor" feel.
 
+### The Final Destination
+Mission accomplished. We transformed a strategic vision into a premium, high-performance landing page.
+
+<div align="center">
+  <img src="docs/V. Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
+</div>
+
+---
+
+---
+## I. Strategic Framing
+
+Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission using our [Strategic Brief](docs/I.%20Cadrage%20strat%C3%A9gique/Concept%20&%20Strat%C3%A9gie%20Produit/Concept%20&%20Strat%C3%A9gie%20Produit.md).
+
 ### Step 1.1: Defining the Brand Concept
 We established the core strategy to position Meow Meow as an "Aesthetic Pet Food" brand, bridging the gap between pet care and premium interior design.
 
-> **Excerpt from [Brand Concept MD](<docs/I. Cadrage stratégique/Concept & Stratégie Produit/Prompt —  Concept & Stratégie Produit.md>):**
+> **Excerpt from Brand Strategy:**
 > *Objective: Disrupt the market with 'Aesthetic Pet Food' that doesn't need to be hidden in a cupboard.*
 > *Persona: 'The Aesthetic Cat Parent' (Urban dwellers, 25-35, interior design enthusiasts).*
 > *USP: 'The first dry food that looks as good as your decoration.'*
@@ -57,7 +65,7 @@ We established the core strategy to position Meow Meow as an "Aesthetic Pet Food
 ### Step 1.2: Crafting the Brand Identity
 Once the concept was locked, we defined the visual DNA: a balance of "Kawaii-Minimalist" and "High-End" aesthetics to create a warm, premium feel.
 
-> **Excerpt from [Brand Identity MD](<docs/I. Cadrage stratégique/Identité de  marque/Prompt —  Identité de Marque.md>):**
+> **Excerpt from Brand Identity:**
 > *Colors: Creamy Latte (#FDFCF0), Soft Rose (#F8D7DA), Terracotta (#E07A5F).*
 > *Typography: M PLUS Rounded 1c (Friendly) & Inter (Clean).*
 > *Vibe: Warm, Rounded, Soft, and Breathing.*
@@ -71,13 +79,6 @@ All strategic research—from persona mapping to visual DNA—was synthesized in
 
 <div align="center">
   <img src="docs/I. Cadrage stratégique/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
-</div>
-
-### Step 1.4: The Final Destination
-The ultimate goal of this orchestrated workflow is a production-ready, high-converting landing page that breathes the Meow Meow DNA.
-
-<div align="center">
-  <img src="docs/V. Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
 </div>
 
 ---
