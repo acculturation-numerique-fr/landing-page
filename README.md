@@ -63,3 +63,36 @@ All strategic research—from persona mapping to visual DNA—was synthesized in
 </div>
 
 ---
+
+## II. Graphic Collections & AI Orchestration
+
+To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded assets using AI models. Every visual—from the hero banner to the packaging textures—was generated following the "Aesthetic Pet Food" strategy.
+
+### Step 2.1: The Prompting Workflow
+We didn't just ask for "cat food." We provided exhaustive brand guardrails to the AI to ensure every pixel matches the Japandi/Pastel DNA.
+
+<div align="center">
+  <img src="docs/II. Créations graphiques/Créations graphiques.png" alt="AI Prompting Workflow" width="100%" />
+</div>
+
+### Step 2.2: Branded Asset Gallery
+Every image in this project is a direct output of clinical AI prompting. Click on any thumbnail below to view the **Mega-Prompt** used to generate it.
+
+<div align="center">
+
+| [**Hero Banner**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20hero-banner.md) | [**Lifestyle Cosy**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20lifestyle-cosy.md) | [**Macro Texture**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20macro-croquettes.md) | [**Packaging Main**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20packaging-front.md) |
+|---|---|---|---|
+| <img src="docs/II. Créations graphiques/Assets/hero-banner.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/lifestyle-cosy.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/macro-croquettes.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/packaging-front.png" width="200" /> |
+| [**Salmon Flavor**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20packaging-saumon.md) | [**Vitamins Mix**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20packaging-vitamines.md) | [**Social Proof I**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20social-proof-chat-dormant.md) | [**Social Proof II**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20social-proof-selfie.md) |
+| <img src="docs/II. Créations graphiques/Assets/packaging-saumon.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/packaging-vitamines.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/social-proof-chat-dormant.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/social-proof-selfie.png" width="200" /> |
+
+</div>
+
+### Step 2.3: Final Graphic Deliverable
+The culmination of this phase is a comprehensive visual library ready to be injected into the frontend environment.
+
+<div align="center">
+  <img src="docs/II. Créations graphiques/Livrable.png" alt="Graphic Library Deliverable" width="100%" />
+</div>
+
+---
