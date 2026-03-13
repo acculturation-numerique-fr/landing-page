@@ -31,6 +31,17 @@ Meow Meow disrupts the pet food market by bridging cat nutrition and interior de
 
 Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission.
 
+### 1. Project Specifications
+We established our guardrails in the professional strategy documents. These act as the "Contract" between the brand vision and the technical execution.
+
+> [!IMPORTANT]
+> **MVP Scope Definition**: 
+> - Design-first Hero section with instant brand impact.
+> - "Instagrammable" product display (Aesthetic Packaging).
+> - Persona-driven storytelling for "The Aesthetic Cat Parent".
+> - Seamless mobile experience for social media traffic.
+> - **Zero** visual clutter to maintain the "Home Decor" feel.
+
 ### Step 1.1: Defining the Brand Concept
 We established the core strategy to position Meow Meow as an "Aesthetic Pet Food" brand, bridging the gap between pet care and premium interior design.
 
