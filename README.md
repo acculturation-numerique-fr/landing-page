@@ -43,6 +43,19 @@ Mission accomplished. We transformed a strategic vision into a premium, high-per
   <img src="docs/V. Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
 </div>
 
+#### Project Lifecycle: AI-Orchestrated DNVB Workflow
+```mermaid
+graph LR
+    A[Strategy & Scope] --> B[Graphic Assets]
+    B --> C[Onboarding]
+    C --> D[Context Engineering]
+    D --> E[Vibecoding]
+    E --> F[Deployment]
+    
+    style D fill:#f9f,stroke:#333,stroke-width:2px
+    style E fill:#bbf,stroke:#333,stroke-width:2px
+```
+
 ---
 
 ---
@@ -130,34 +143,6 @@ We initialized the project environment, ensuring all initial scaffolding correct
 
 ### Step 3.2: Context Engineering
 AI is only as good as the context it consumes. After creating the account, we performed a thorough **Context Engineering** phase: loading our system prompts, architectures, the [Brand DNA Prompt](<docs/IV. Context Engineering/Prompt - Context Engineering.md>), and all our AI-generated graphic assets.
-
-#### The AI-Orchestrated Lifecycle
-The following diagram illustrates the professional request flow from strategic framing to final product deployment:
-
-```mermaid
-graph TD
-    subgraph "Phase I: Strategy"
-        A[Brand Strategy] --> B[Visual Identity]
-    end
-    subgraph "Phase II: Assets"
-        B --> C[AI Prompting Workflow]
-        C --> D[Branded Asset Library]
-    end
-    subgraph "Phase III: Context"
-        D --> E[Lovable Onboarding]
-        E --> F[Context Engineering]
-    end
-    subgraph "Phase IV: Build"
-        F --> G[Vibecoding Execution]
-        G --> H[Final Landing Page]
-    end
-    subgraph "Phase V: Live"
-        H --> I[Professional Deployment]
-    end
-    
-    style F fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#bbf,stroke:#333,stroke-width:2px
-```
 
 <div align="center">
   <img src="docs/IV. Context Engineering/attach_files.png" alt="Context Engineering" width="100%" />
