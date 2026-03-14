@@ -149,6 +149,8 @@ AI is only as good as the context it consumes. After creating the account, we pe
 ### Step 3.3: Design System Calibration
 Before writing a single line of component logic, we used Lovable's preconfiguration to set the foundation. We manually calibrated the theme to match our established HEX codes and typography.
 
+---
+
 <div align="center">
   <img src="docs/IV. Context Engineering/chose_theme.png" alt="Theme Selection" width="100%" />
 </div>
@@ -163,16 +165,94 @@ Before writing a single line of component logic, we used Lovable's preconfigurat
 
 ---
 
+---
+
 ## IV. Vibecoding & Build
 
 With the context fully engineered and the tokens calibrated, we launched the **Vibecoding** execution. This phase is characterized by a high-speed dialogue with the LLM, refining components and layouts in real-time.
 
-### Step 4.1: High-Speed Execution
+> **Strategic Orchestration Prompt (AI Input):**
+> *"Act as a Senior Frontend Specialist. Implement a high-end, design-first Landing Page for 'Meow Meow'. Use React with Vite and Tailwind CSS. Prioritize a 'Kawaii-Minimalist' aesthetic with soft pastel tones. Every component must be atomized and use Framer Motion for premium micro-animations."*
+
+---
+
+### Step 4.1: Structural Scaffolding
+The agent generates the clean, atomic project tree, maintaining a strict separation between pages, components, and global styles.
+
+```text
+landing-page/
+├── docs/            # Strategic Foundations
+├── public/          # Static Visual Assets
+├── src/
+│   ├── components/  # Atomic UI (Hero, ProductGrid, etc.)
+│   ├── pages/       # Route Entry Points (Index.tsx)
+│   ├── app.tsx      # Main Router Logic
+│   └── main.tsx     # Application Entry
+├── tailwind.config.ts
+└── vite.config.ts
+```
+
+---
+
+### Step 4.2: Component Hierarchy & Logic Flow
+The landing page relies on a modular hierarchy where the mapping of strategic assets occurs at the component level.
+
+```mermaid
+graph TD
+    A[App.tsx Router] --> B[Index.tsx Page]
+    B --> C[Navbar]
+    B --> D[Hero]
+    B --> E[ProductGrid]
+    B --> F[WhySection]
+    B --> G[SocialProof]
+    B --> H[Footer]
+    
+    E -- Hydrates --> P[Product Card]
+    D -- Context --> B1[Strategic Context]
+```
+
+---
+
+### Step 4.3: High-Speed Execution
 We provided the orchestration logic to Lovable, which began generating the React components, Tailwind styles, and Framer Motion micro-animations.
 
-<div align="center">
-  <img src="docs/V. Vibecoding/prompting-lovable.png" alt="Vibecoding Prompting" width="100%" />
-</div>
+#### **Code Artifact A: Semantic Routing ([src/App.tsx](src/App.tsx))**
+A clean, centralized router handling the primary landing view and fail-safe 404 handling.
+```tsx
+const App = () => (
+  <QueryClientProvider client={queryClient}>
+    <TooltipProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Index />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+      </BrowserRouter>
+    </TooltipProvider>
+  </QueryClientProvider>
+);
+```
+
+#### **Code Artifact B: Page Orchestration ([src/pages/Index.tsx](src/pages/Index.tsx))**
+The master assembly file that stitches together the atomic components into a seamless brand experience.
+```tsx
+const Index = () => {
+  return (
+    <div className="min-h-screen bg-background">
+      <Navbar />
+      <main>
+        <Hero />
+        <ProductGrid />
+        <WhySection />
+        <SocialProof />
+      </main>
+      <Footer />
+    </div>
+  );
+};
+```
+
+---
 
 ---
 
