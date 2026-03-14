@@ -53,7 +53,7 @@ graph LR
 The mission: Transform a strategic vision into a live, industrial-grade Landing Page.
 
 <div align="center">
-  <img src="docs/V. Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
+  <img src="docs/V.%20Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
 </div>
 
 ---
