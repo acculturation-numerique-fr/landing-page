@@ -59,7 +59,7 @@ The mission: Transform a strategic vision into a live, industrial-grade Landing 
 ---
 ## I. Strategic Framing
 
-Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission using our [Strategic Brief](docs/I.%20Strategic%20Framing/Concept%20&%20Strat%C3%A9gie%20Produit/Concept%20&%20Strat%C3%A9gie%20Produit.md).
+Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission using our [Strategic Brief](docs/I.%20Strategic%20Framing/Strategy%20and%20Concept/Strategy%20and%20Concept.md).
 
 ### Step 1.1: Defining the Brand Concept
 We established the core strategy to position Meow Meow as an "Aesthetic Pet Food" brand, bridging the gap between pet care and premium interior design.
@@ -70,7 +70,7 @@ We established the core strategy to position Meow Meow as an "Aesthetic Pet Food
 > *USP: 'The first dry food that looks as good as your decoration.'*
 
 <div align="center">
-  <img src="docs/I. Strategic Framing/Concept & Stratégie Produit/Concept & Stratégie Produit.png" alt="Brand Concept" width="100%" />
+  <img src="docs/I. Strategic Framing/Strategy and Concept/Strategy and Concept.png" alt="Brand Concept" width="100%" />
 </div>
 
 ### Step 1.2: Crafting the Brand Identity
@@ -82,7 +82,7 @@ Once the concept was locked, we defined the visual DNA: a balance of "Kawaii-Min
 > *Vibe: Warm, Rounded, Soft, and Breathing.*
 
 <div align="center">
-  <img src="docs/I. Strategic Framing/Identité de  marque/Identité de marque.png" alt="Brand Identity" width="100%" />
+  <img src="docs/I. Strategic Framing/Brand Identity/Brand Identity.png" alt="Brand Identity" width="100%" />
 </div>
 
 ### Step 1.3: Strategic Synthesis Deliverable
@@ -219,7 +219,7 @@ We provided the orchestration logic to Lovable, which began generating the React
   <img src="docs/V. Vibecoding/prompting-lovable.png" alt="Vibecoding Prompting" width="100%" />
 </div>
 
-#### **Code Artifact A: Semantic Routing ([src/App.tsx](src/App.tsx))**
+#### **Code Artifact A: Semantic Routing ([frontend/src/App.tsx](frontend/src/App.tsx))**
 A clean, centralized router handling the primary landing view and fail-safe 404 handling.
 ```tsx
 const App = () => (
@@ -236,7 +236,7 @@ const App = () => (
 );
 ```
 
-#### **Code Artifact B: Page Orchestration ([src/pages/Index.tsx](src/pages/Index.tsx))**
+#### **Code Artifact B: Page Orchestration ([frontend/src/pages/Index.tsx](frontend/src/pages/Index.tsx))**
 The master assembly file that stitches together the atomic components into a seamless brand experience.
 ```tsx
 const Index = () => {
@@ -281,19 +281,19 @@ For a robust production setup, we opted for a professional **GitHub + Vercel** w
 
 | **1. Lovable GitHub Export** | **2. Repository Setup** |
 |---|---|
-| <img src="docs/V. Vibecoding/Deployement/repo-lovable.png" width="400" /> | <img src="docs/V. Vibecoding/Deployement/repo-vercel.png" width="400" /> |
+| <img src="docs/V. Vibecoding/Deployment/repo-lovable.png" width="400" /> | <img src="docs/V. Vibecoding/Deployment/repo-vercel.png" width="400" /> |
 
 </div>
 
 <div align="center">
-  <img src="docs/V. Vibecoding/Deployement/vercel.png" alt="Vercel Deployment" width="100%" />
+  <img src="docs/V. Vibecoding/Deployment/vercel.png" alt="Vercel Deployment" width="100%" />
 </div>
 
 ### Step 5.3: Production Monitoring & Success
 The **Meow Meow** landing page is now officially live. We have access to a professional monitoring suite to track visitor engagement while we admire our final creation.
 
 <div align="center">
-  <img src="docs/V. Vibecoding/Deployement/lovable-monitor.png" alt="Production Monitoring" width="100%" />
+  <img src="docs/V. Vibecoding/Deployment/lovable-monitor.png" alt="Production Monitoring" width="100%" />
 </div>
 
 ---
