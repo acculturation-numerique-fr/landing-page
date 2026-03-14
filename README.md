@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src="public/logo-light.png" alt="Meow Meow Logo" width="450" />
+  <img src="frontend/public/logo-light.png" alt="Meow Meow Logo" width="450" />
   <br />
   <img src="https://img.shields.io/badge/Architecture-Vibe_Coding-6366f1?style=for-the-badge" alt="Architecture Badge" />
   <img src="https://img.shields.io/badge/Visuals-DNVB_Style-ff69b4?style=for-the-badge" alt="Visuals Badge" />
