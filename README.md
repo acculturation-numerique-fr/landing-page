@@ -182,14 +182,13 @@ The agent generates the clean, atomic project tree, maintaining a strict separat
 ```text
 landing-page/
 ├── docs/            # Strategic Foundations
-├── public/          # Static Visual Assets
-├── src/
-│   ├── components/  # Atomic UI (Hero, ProductGrid, etc.)
-│   ├── pages/       # Route Entry Points (Index.tsx)
-│   ├── app.tsx      # Main Router Logic
-│   └── main.tsx     # Application Entry
-├── tailwind.config.ts
-└── vite.config.ts
+├── frontend/        # Technical Application
+│   ├── src/         # React Components & Pages
+│   ├── public/      # Static Visual Assets
+│   ├── vite.config.ts
+│   └── package.json
+├── README.md
+└── package.json     # Monorepo Workspace
 ```
 
 ---
