@@ -102,7 +102,7 @@ To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded 
 We didn't just ask for "cat food." We provided exhaustive brand guardrails to the AI to ensure every pixel matches the Japandi/Pastel DNA.
 
 <div align="center">
-  <img src="docs/II. Graphic Collections/Créations graphiques.png" alt="AI Prompting Workflow" width="100%" />
+  <img src="docs/II. Graphic Collections/Graphic Collections.png" alt="AI Prompting Workflow" width="100%" />
 </div>
 
 ### Step 2.2: Branded Asset Gallery
