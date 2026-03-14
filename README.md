@@ -59,7 +59,7 @@ The mission: Transform a strategic vision into a live, industrial-grade Landing 
 ---
 ## I. Strategic Framing
 
-Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission using our [Strategic Brief](docs/I.%20Cadrage%20strat%C3%A9gique/Concept%20&%20Strat%C3%A9gie%20Produit/Concept%20&%20Strat%C3%A9gie%20Produit.md).
+Every project begins with a clear **Intention**. Meow Meow isn't just a website; it's a disruption of the pet food market. We refused the "ugly kibble bag" status quo and defined a "Design-first" brand mission using our [Strategic Brief](docs/I.%20Strategic%20Framing/Concept%20&%20Strat%C3%A9gie%20Produit/Concept%20&%20Strat%C3%A9gie%20Produit.md).
 
 ### Step 1.1: Defining the Brand Concept
 We established the core strategy to position Meow Meow as an "Aesthetic Pet Food" brand, bridging the gap between pet care and premium interior design.
@@ -70,7 +70,7 @@ We established the core strategy to position Meow Meow as an "Aesthetic Pet Food
 > *USP: 'The first dry food that looks as good as your decoration.'*
 
 <div align="center">
-  <img src="docs/I. Cadrage stratégique/Concept & Stratégie Produit/Concept & Stratégie Produit.png" alt="Brand Concept" width="100%" />
+  <img src="docs/I. Strategic Framing/Concept & Stratégie Produit/Concept & Stratégie Produit.png" alt="Brand Concept" width="100%" />
 </div>
 
 ### Step 1.2: Crafting the Brand Identity
@@ -82,14 +82,14 @@ Once the concept was locked, we defined the visual DNA: a balance of "Kawaii-Min
 > *Vibe: Warm, Rounded, Soft, and Breathing.*
 
 <div align="center">
-  <img src="docs/I. Cadrage stratégique/Identité de  marque/Identité de marque.png" alt="Brand Identity" width="100%" />
+  <img src="docs/I. Strategic Framing/Identité de  marque/Identité de marque.png" alt="Brand Identity" width="100%" />
 </div>
 
 ### Step 1.3: Strategic Synthesis Deliverable
 All strategic research—from persona mapping to visual DNA—was synthesized into a master blueprint that aligned the brand vision before any code was written.
 
 <div align="center">
-  <img src="docs/I. Cadrage stratégique/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
+  <img src="docs/I. Strategic Framing/Livrable.png" alt="Strategic Framing Deliverable" width="100%" />
 </div>
 
 ---
@@ -102,7 +102,7 @@ To avoid a "generic" or "empty" feel, we orchestrated a complete set of branded 
 We didn't just ask for "cat food." We provided exhaustive brand guardrails to the AI to ensure every pixel matches the Japandi/Pastel DNA.
 
 <div align="center">
-  <img src="docs/II. Créations graphiques/Créations graphiques.png" alt="AI Prompting Workflow" width="100%" />
+  <img src="docs/II. Graphic Collections/Créations graphiques.png" alt="AI Prompting Workflow" width="100%" />
 </div>
 
 ### Step 2.2: Branded Asset Gallery
@@ -110,11 +110,11 @@ Every image in this project is a direct output of clinical AI prompting. Click o
 
 <div align="center">
 
-| [**Hero Banner**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20hero-banner.md) | [**Lifestyle Cosy**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20lifestyle-cosy.md) | [**Macro Texture**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20macro-croquettes.md) | [**Packaging Main**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20packaging-front.md) |
+| [**Hero Banner**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20hero-banner.md) | [**Lifestyle Cosy**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20lifestyle-cosy.md) | [**Macro Texture**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20macro-croquettes.md) | [**Packaging Main**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20packaging-front.md) |
 |---|---|---|---|
-| <img src="docs/II. Créations graphiques/Assets/hero-banner.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/lifestyle-cosy.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/macro-croquettes.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/packaging-front.png" width="200" /> |
-| [**Salmon Flavor**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20packaging-saumon.md) | [**Vitamins Mix**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20packaging-vitamines.md) | [**Social Proof I**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20social-proof-chat-dormant.md) | [**Social Proof II**](docs/II.%20Cr%C3%A9ations%20graphiques/Prompts/Prompt%20%E2%80%94%20social-proof-selfie.md) |
-| <img src="docs/II. Créations graphiques/Assets/packaging-saumon.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/packaging-vitamines.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/social-proof-chat-dormant.png" width="200" /> | <img src="docs/II. Créations graphiques/Assets/social-proof-selfie.png" width="200" /> |
+| <img src="docs/II. Graphic Collections/Assets/hero-banner.png" width="200" /> | <img src="docs/II. Graphic Collections/Assets/lifestyle-cosy.png" width="200" /> | <img src="docs/II. Graphic Collections/Assets/macro-croquettes.png" width="200" /> | <img src="docs/II. Graphic Collections/Assets/packaging-front.png" width="200" /> |
+| [**Salmon Flavor**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20packaging-saumon.md) | [**Vitamins Mix**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20packaging-vitamines.md) | [**Social Proof I**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20social-proof-chat-dormant.md) | [**Social Proof II**](docs/II.%20Graphic%20Collections/Prompts/Prompt%20%E2%80%94%20social-proof-selfie.md) |
+| <img src="docs/II. Graphic Collections/Assets/packaging-saumon.png" width="200" /> | <img src="docs/II. Graphic Collections/Assets/packaging-vitamines.png" width="200" /> | <img src="docs/II. Graphic Collections/Assets/social-proof-chat-dormant.png" width="200" /> | <img src="docs/II. Graphic Collections/Assets/social-proof-selfie.png" width="200" /> |
 
 </div>
 
@@ -122,7 +122,7 @@ Every image in this project is a direct output of clinical AI prompting. Click o
 The culmination of this phase is a comprehensive visual library ready to be injected into the frontend environment.
 
 <div align="center">
-  <img src="docs/II. Créations graphiques/Livrable.png" alt="Graphic Library Deliverable" width="100%" />
+  <img src="docs/II. Graphic Collections/Livrable.png" alt="Graphic Library Deliverable" width="100%" />
 </div>
 
 ---
@@ -135,8 +135,8 @@ Moving from strategic design to technical execution requires a precise "Onboardi
 We initialized the project environment, ensuring all initial scaffolding correctly reflects the premium DNVB requirements.
 
 <div align="center">
-  <img src="docs/III. Environnement de développement/lovable-sign-up.png" width="45%" />
-  <img src="docs/III. Environnement de développement/lovable-landing.png" width="45%" />
+  <img src="docs/III. Development Environment/lovable-sign-up.png" width="45%" />
+  <img src="docs/III. Development Environment/lovable-landing.png" width="45%" />
 </div>
 
 ### Step 3.2: Context Engineering
