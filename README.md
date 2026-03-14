@@ -53,7 +53,7 @@ graph LR
 The mission: Transform a strategic vision into a live, industrial-grade Landing Page.
 
 <div align="center">
-  <img src="docs/V.%20Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
+  <img src="docs/V. Vibecoding/visit-site-web.gif" alt="Final Product Preview" width="100%" />
 </div>
 
 ---
@@ -307,5 +307,5 @@ Congratulations! The **Meow Meow** project is fully operational and production-r
 *This master course demonstrates the peak of AI-orchestrated development. From strategy to production, you have successfully navigated the AI-Assisted workflow.*
 
 <div align="center">
-  <img src="docs/V.%20Vibecoding/visit-site-web.png" alt="Final Product Preview" width="100%" />
+  <img src="docs/V. Vibecoding/visit-site-web.gif" alt="Final Product Preview" width="100%" />
 </div>
