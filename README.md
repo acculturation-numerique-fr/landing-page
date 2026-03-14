@@ -216,6 +216,10 @@ graph TD
 ### Step 4.3: High-Speed Execution
 We provided the orchestration logic to Lovable, which began generating the React components, Tailwind styles, and Framer Motion micro-animations.
 
+<div align="center">
+  <img src="docs/V. Vibecoding/prompting-lovable.png" alt="Vibecoding Prompting" width="100%" />
+</div>
+
 #### **Code Artifact A: Semantic Routing ([src/App.tsx](src/App.tsx))**
 A clean, centralized router handling the primary landing view and fail-safe 404 handling.
 ```tsx
