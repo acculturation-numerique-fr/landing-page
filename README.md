@@ -279,6 +279,16 @@ For a robust production setup, we opted for a professional **GitHub + Vercel** w
 2.  **Repo Duplication**: We synchronized the codebase into a clean, independent repository.
 3.  **Vercel Connection**: We linked the new repository to Vercel for automated CI/CD.
 
+**Commands (first push from local):**
+
+```bash
+git init
+git remote add origin git@github.com:USERNAME/landing-page.git
+git add .
+git commit -m 'my first commit'
+git push -u origin main
+```
+
 <div align="center">
 
 | **1. Lovable GitHub Export** | **2. Repository Setup** |
