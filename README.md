@@ -167,8 +167,6 @@ Before writing a single line of component logic, we used Lovable's preconfigurat
 
 ---
 
----
-
 ## IV. Vibecoding & Build
 
 With the context fully engineered and the tokens calibrated, we launched the **Vibecoding** execution. This phase is characterized by a high-speed dialogue with the LLM, refining components and layouts in real-time.
@@ -256,8 +254,6 @@ const Index = () => {
   );
 };
 ```
-
----
 
 ---
 
