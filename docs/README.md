@@ -6,7 +6,7 @@ Below you will find a simplified tree of the docs structure, the project lifecyc
 
 ---
 
-## Docs tree (simplified)
+## Docs tree
 
 ```
 docs/
@@ -137,3 +137,4 @@ graph LR
 | Repo Lovable | [repo-lovable.png](V.%20Vibecoding/Deployment/repo-lovable.png) |
 | Repo Vercel | [repo-vercel.png](V.%20Vibecoding/Deployment/repo-vercel.png) |
 | Vercel | [vercel.png](V.%20Vibecoding/Deployment/vercel.png) |
+l
