@@ -1,3 +1,31 @@
+# Prompt — Strategy and Concept (Meow Meow)
+
+Prompt pour générer le **document de stratégie produit et concept de marque** Meow Meow : vision, persona, JTBD, value proposition, piliers. À utiliser en tout début de projet avant l’identité visuelle et les assets.
+
+---
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[Brief DNVB] --> B[Prompt Strategy]
+    B --> C[Agent]
+    C --> D[Strategy and Concept]
+    D --> E[Brand Identity + Context Engineering]
+```
+
+| Livrable attendu | Contenu |
+|------------------|---------|
+| Strategic Vision | Le "Why" décoration / nutrition. |
+| Modern Persona | Profil Japandi Enthusiast Parent (démographie, psychographie, friction). |
+| JTBD | Jobs-To-Be-Done (peace of mind + visual harmony). |
+| Value Proposition Matrix | USP en 3 niveaux : Functional, Emotional, Social. |
+| Brand Pillars | 3 valeurs non négociables. |
+
+---
+
+## Bloc prompt (copier-coller)
+
 <Context>
 I am orchestrating the launch of "Meow Meow", a disruptive DNVB (Digital Native Vertical Brand) in the pet nutrition sector. The current market is polarized between industrial-clinical aesthetics and overly childish paradigms. Our mission is to pioneer "Aesthetic Pet Food"—products so visually harmonious they function as premium interior design elements, effectively removing the "ugly kibble bag" friction from high-end urban living spaces.
 </Context>

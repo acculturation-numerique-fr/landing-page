@@ -1,3 +1,30 @@
+# Prompt — Brand Identity / Visual DNA (Meow Meow)
+
+Prompt pour générer le **système d’identité visuelle** Meow Meow : palette HEX, typo, composants, art direction photo, brief logo. À utiliser après la stratégie et avant la génération d’images (Midjourney/DALL·E) et le calage Tailwind.
+
+---
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[Strategy and Concept] --> B[Prompt Brand Identity]
+    B --> C[Agent]
+    C --> D[Visual DNA doc]
+    D --> E[Images + Tailwind]
+```
+
+| Livrable attendu | Contenu |
+|------------------|---------|
+| Functional Palette Table | HEX → Backgrounds, UI, Typography. |
+| Component Specs | Corner radius (2xl/3xl), shadows, borders. |
+| Photography Art Direction | Lighting, composition, props (céramique, lin, bois). |
+| Hero Logo Prompt | Description prompt-ready pour génération logo. |
+
+---
+
+## Bloc prompt (copier-coller)
+
 <Context>
 The strategic foundation for "Meow Meow" (Decor-Integrated Pet Nutrition) is locked. We now require a high-fidelity Visual Identity System (VIS) to orchestrate all creative assets and frontend styling. This system must bridge the gap between "Friendly/Kawaii" accessibility and "High-End/Japandi" sophistication.
 </Context>

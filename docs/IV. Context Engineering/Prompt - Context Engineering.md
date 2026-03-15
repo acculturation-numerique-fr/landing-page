@@ -1,3 +1,30 @@
+# Prompt — Context Engineering (Meow Meow)
+
+Prompt maître pour générer le **package de documentation technique** Meow Meow (brand-dna, visual-design-system, content-assets, technical-manifesto). À injecter dans l’environnement de vibecoding pour aligner le code sur l’ADN de marque.
+
+---
+
+## Workflow
+
+```mermaid
+flowchart LR
+    A[Brand DNA + Strategy] --> B[Prompt Context Engineering]
+    B --> C[Agent]
+    C --> D[4 fichiers .md]
+    D --> E[Vibecoding Landing]
+```
+
+| Fichier attendu | Rôle |
+|-----------------|------|
+| **brand-dna.md** | Positionnement, persona, verbal identity, valeurs. |
+| **visual-design-system.md** | HEX, typo, composants (radius, shadows). |
+| **content-assets.md** | Navigation, hero copy, mapping images. |
+| **technical-manifesto.md** | Stack (Vite, React, TS), architecture atomique, Tailwind + Framer Motion. |
+
+---
+
+## Bloc prompt (copier-coller)
+
 <Context>
 We are transitioning from the creative strategy phase to the technical orchestration of the "Meow Meow" landing page. To ensure absolute alignment between the AI coding agent (Vibecoding) and the Brand DNA, we need a high-density "Source of Truth" documentation package.
 </Context>

@@ -15,6 +15,8 @@ Welcome to the **complete chronological handbook** for the Meow Meow project. Th
 
 Meow Meow disrupts the pet food market by bridging cat nutrition and interior design—creating the first pet food product beautiful enough to be part of a home's décor.
 
+All prompts, strategy and documentation are available in the [**docs**](/docs) folder.
+
 ---
 
 ## Technical Core
