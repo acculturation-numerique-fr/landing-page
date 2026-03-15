@@ -1,42 +1,39 @@
 <Context>
-We have validated the strategy for "Meow Meow", an aesthetic cat food brand. Now, we need to define the Visual Identity System that will be used to generate assets and build the website. This needs to feel "Premium Cute" and "Cozy".
+The strategic foundation for "Meow Meow" (Decor-Integrated Pet Nutrition) is locked. We now require a high-fidelity Visual Identity System (VIS) to orchestrate all creative assets and frontend styling. This system must bridge the gap between "Friendly/Kawaii" accessibility and "High-End/Japandi" sophistication.
 </Context>
 
 <Role>
-Act as a Creative Director and UI/UX Designer specialized in "Kawaii-Minimalist" aesthetics and Web Design.
+Act as a Creative Director and Design Systems Architect specialized in "Contemporary Minimalist" aesthetics and Emotional UI/UX. You are an expert at defining "Quiet Luxury" tokens for lifestyle brands.
 </Role>
 
 <Action>
-Create a complete "Brand Identity & Design System" document. This will serve as the single source of truth for our AI image generators and our frontend development.
+Generate a comprehensive "Visual DNA & Design System" blueprint. This document will serve as the algorithmic "Source of Truth" for AI image synthesis (Midjourney/DALL-E) and Tailwind CSS calibration.
 </Action>
 
 <Constraints>
-- **Colors**: You must provide exact HEX Codes for the palette names provided below.
-- **Typography**: Suggest Google Fonts (available in web tools like Lovable) that match the description.
-- **Vibe**: The design must balance "Cute" (friendly) and "High-End" (clean, breathable). Avoid looking cheap.
+- **Aesthetic Balance**: 70% Japandi-Minimalist (Clean, breathable, wood, ceramics) / 30% Kawaii-Pastel (Warmth, soft curves, approachable).
+- **Format**: Systematic Markdown with tables for functional tokens.
+- **Language**: Global English excellence.
 </Constraints>
 
-<Format>
-Markdown structured document with clear tables for colors and typography.
-</Format>
-
-<Tone>
-Creative, warm, descriptive, and precise.
-</Tone>
-
 <Instructions>
-Use the following input data to define the guidelines:
+Use the following Brand DNA inputs to architect the system:
 
-1. **Naming**: "Meow Meow" (Simple, playful, international).
-2. **Visual Vibe**: Pastel, Warm, Soft, Rounded.
-3. **Color Palette inputs**:
-   - *Primary*: "Creamy Latte" (Soft Beige/Off-white).
-   - *Secondary*: "Soft Rose" (Powder Pink).
-   - *Accents*: Choose between "Matcha Green" OR "Terracotta" (Pick the one that fits best with Latte/Rose) and define a "Dark Roast" color for text (avoiding pure black).
-4. **Typography inputs**: Rounded Sans-serif, Soft, Friendly.
+1. **Brand Name**: Meow Meow.
+2. **Core Palette**:
+   - **Primary (The Soul)**: Creamy Latte (#FDFCF0) — Non-pure white, organic warmth.
+   - **Secondary (The Blush)**: Soft Rose (#F8D7DA) — Delicate, refined, non-childish pink.
+   - **Accent (The Contrast)**: Terracotta (#E07A5F) — Earthy, grounded, provides accessibility Contrast.
+   - **Ink (The Legibility)**: Dark Roast (#2D2926) — Soft charcoal, avoids harsh pure black.
+3. **Typography Strategy**:
+   - **Heading**: Rounded Display (e.g., "M PLUS Rounded 1c") — Friendly but geometric.
+   - **Body**: Clean Sans-Serif (e.g., "Inter") — Technical legibility and modernism.
 
-**Your task:**
-1. **Color Palette Generator**: Provide a table with Name, Hex Code, and Usage (Background, Button, Text) for 4-5 colors based on the inputs.
+**Target Deliverables:**
+1. **Functional Palette Table**: Hex codes mapped to Backgrounds, UI Components (Buttons/Badges), and Typography.
+2. **Component Specs**: Define Corner Radius (e.g., 2xl / 3xl), Shadow depth (Soft diffusion), and Border strategies (Ultra-fine).
+3. **Photography Art Direction**: A definitive brief for AI generation including Lighting (Golden hour, diffuse), Composition (Rule of thirds, centered subjects), and Props (Matte ceramics, linen, light wood).
+4. **The "Hero Logo" Prompt**: A clinical, prompt-ready description for a minimalist, typographic-driven logo.
 2. **Typography Selection**: Recommend 1 Heading Font (Rounded/Display) and 1 Body Font (Clean Sans) available on Google Fonts (e.g., M PLUS Rounded 1c, Nunito, Quicksand, or Inter).
 3. **Logo Brief**: Write a precise text description of the logo to be used as a prompt for Midjourney/DALL-E later.
 4. **Art Direction**: Describe the photography style in 3 keywords and a short paragraph (e.g., lighting, props, mood) to guide future image generation.

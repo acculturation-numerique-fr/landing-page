@@ -1,46 +1,36 @@
 <Context>
-I am launching a new pet food brand called "Meow Meow". The market is saturated with ugly, clinical, or overly childish pet food brands. My goal is to disrupt the market with "Aesthetic Pet Food" that doesn't need to be hidden in a cupboard. It creates a bridge between pet care and interior design.
+I am orchestrating the launch of "Meow Meow", a disruptive DNVB (Digital Native Vertical Brand) in the pet nutrition sector. The current market is polarized between industrial-clinical aesthetics and overly childish paradigms. Our mission is to pioneer "Aesthetic Pet Food"—products so visually harmonious they function as premium interior design elements, effectively removing the "ugly kibble bag" friction from high-end urban living spaces.
 </Context>
 
 <Role>
-Act as a Senior Brand Strategist and Consumer Psychologist specialized in DNVB (Digital Native Vertical Brands) and Millennial/Gen Z consumer trends.
+Act as a Senior Brand Strategist and Consumer Psychologist specialized in DNVB architecture and Millennial/Gen Z "Pet Humanization" trends. You are an expert at transforming functional utility into emotional lifestyle statements.
 </Role>
 
 <Action>
-Develop a comprehensive "Product Strategy & Concept" document for "Meow Meow" based on the raw data provided below. You need to expand these points into a professional strategic framework.
+Develop a clinical "Product Strategy & Brand Concept" document. You must translate the raw project DNA into a sophisticated strategic framework that will guide designers and developers.
 </Action>
 
 <Constraints>
-- Focus heavily on the "Instagrammable" and "Design-first" aspect.
-- The target audience is NOT just "cat owners", but "lifestyle-conscious cat parents".
-- Keep the analysis concise but impactful (bullet points preferred over long paragraphs).
+- **Philosophy**: Design-first. Every attribute must pass the "Instagrammability" filter.
+- **Paradigm Shift**: Transition the customer from a "Cat Owner" to an "Aesthetic Cat Parent".
+- **Tone**: Senior, visionary, precise, with an undercurrent of premium wit.
+- **Language**: 100% Professional English.
 </Constraints>
 
-<Format>
-Markdown structured document with the following sections:
-1. Executive Summary
-2. Niche Analysis (The "Why")
-3. Deep-Dive Persona Profile
-4. The Golden USP
-</Format>
-
-<Tone>
-Professional, trendy, insightful, and slightly witty.
-</Tone>
-
 <Instructions>
-Use the following input data to build the strategy:
+Leverage the following core data points to architect the strategy:
 
-1. **Niche**: Aesthetic Pet Food. The product is beautiful enough to be displayed as home decor.
-2. **Target Persona**: "The Aesthetic Cat Parent".
-   - Age: 25-35 years old.
-   - Location: Urban/City dweller.
-   - Behavior: Manages a dedicated Instagram/TikTok account for their cat, follows interior design trends (Japandi, Pastel Danish, etc.).
-   - Pain point: Loves their cat but hates ugly kibble bags that ruin their apartment's aesthetic.
-3. **USP**: "The first dry food that looks as good as your decoration."
+1. **Niche**: The "Decor-Integrated Nutrition" market.
+2. **Target Persona**: "The Japandi Enthusiast Parent".
+   - **Demographics**: 25-35, high-density urban environment, design-sensitive.
+   - **Psychographics**: Obsessive about space curation, values "Shelf-Appeal", treats the cat as a family member and aesthetic muse.
+   - **Friction**: The visual pollution caused by traditional, brightly colored, plastic-heavy pet food packaging.
+3. **The Golden USP**: "Nutrition that complements your interior design."
 
-**Your task:**
-- Flesh out the **Persona** with specific details (brands they love, apps they use, weekend habits).
-- Refine the **USP** into 3 variations (one short, one descriptive, one emotional).
-- Explain **Why** this niche is a massive opportunity right now (connect it to the "Pet Humanization" trend).
+**Your Deliverable Structure:**
+1. **Strategic Vision**: The "Why" behind the decoration/nutrition hybrid.
+2. **The Modern Persona**: A high-definition profile (habits, aesthetic preferences, tech stack).
+3. **JTBD (Jobs-To-Be-Done)**: What is the customer *really* buying? (Hint: Peace of mind + Visual harmony).
+4. **Value Proposition Matrix**: 3-tier refinement of the USP (Functional, Emotional, and Social).
+5. **Brand Pillars**: 3 non-negotiable values that define the Meow Meow experience.
 </Instructions>

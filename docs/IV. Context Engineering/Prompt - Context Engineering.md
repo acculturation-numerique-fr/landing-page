@@ -1,70 +1,45 @@
 <Context>
-You are a Technical Documentation Architect specializing in creating comprehensive project documentation for modern full-stack e-commerce applications.
+We are transitioning from the creative strategy phase to the technical orchestration of the "Meow Meow" landing page. To ensure absolute alignment between the AI coding agent (Vibecoding) and the Brand DNA, we need a high-density "Source of Truth" documentation package.
 </Context>
 
 <Role>
-Senior Technical Writer & Project Scaffolding Specialist
+Act as a Senior Technical Lead and Context Engineer. Your expertise lies in "Instructional Scaffolding"—optimizing project context for Large Language Models to ensure zero-hallucination code generation.
 </Role>
 
 <Action>
-Create a set of markdown (.md) files that will serve as the single source of truth for a development team building the "DRYVIA" premium indoor shoe brand website. These files must contain all branding guidelines, design systems, product data, and technical specifications needed to build the project.
+Generate a comprehensive set of technical markdown files derived from the "Meow Meow" Brand DNA and Strategic Framework. These files must be ready to be "Injected" into an AI coding environment.
 </Action>
 
 <Constraints>
-- Create exactly 4 markdown files with the specified names and content.
-- All content must be pulled directly from the provided project brief above.
-- Use proper markdown formatting with headers, tables, code blocks where appropriate.
-- Do not add any placeholder text (like "Lorem Ipsum") - use only real data from the brief.
-- Ensure all citations/references from the brief are properly included as comments or references.
+- **Target Project**: Meow Meow (Premium Cat Nutrition).
+- **Scope**: Landing Page (Marketing centric).
+- **Tech Stack**: React, Vite, Tailwind CSS, Framer Motion, Shadcn/UI.
+- **Language**: 100% Technical English.
+- **No DRYVIA References**: Ensure absolute removal of legacy "indoor shoe" context.
 </Constraints>
 
-<Format>
-Create four separate markdown files with the following structure:
-1. `brand_guidelines.md` - Brand identity, verbal identity, positioning
-2. `design_system.md` - Colors, typography, UI components
-3. `product_data.md` - Product specifications, features, pricing, images
-4. `project_context.md` - Technical stack, architecture rules, workflow
-</Format>
-
-<Tone>
-Professional, precise, technical, and instructional. This documentation should be ready for developers to use immediately.
-</Tone>
-
 <Instructions>
-Extract and organize all information from the provided project brief into the four markdown files as follows:
+Synthesize the provided brand/strategy data into the following 4 foundational files:
 
-1. **brand_guidelines.md**:
-   - Include Brand Name and strategic rationale
-   - Brand Identity (Vibe, Positioning, Tone)
-   - Verbal Identity (Taglines)
-   - The Niche description
-   - Target Audience
-   - Problem Statement
-   - Solution overview
-   - Unique Selling Proposition table
+1. **brand-dna.md**:
+   - Executive positioning: "The Decor-Integrated Nutrition Pioneer".
+   - Target Persona: "The Japandi Enthusiast Parent".
+   - Verbal Identity: Core taglines and brand voice guidelines.
+   - Values: Design-first, Pet Humanization, Quiet Luxury.
 
-2. **design_system.md**:
-   - Brand Identity keywords
-   - Complete Color Palette table with hex codes and usage descriptions
-   - Typography specifications
-   - Detailed UI Components (Buttons, Cards, Images)
-   - Include all specific color hex codes and styling rules mentioned
+2. **visual-design-system.md**:
+   - Color Tokens: Exact HEX codes (Creamy Latte, Soft Rose, Terracotta, Dark Roast) and their utility mapping.
+   - Typography: Google Font pairings and scale (Montserrat/Inter).
+   - Component Specs: Rounded corners (3xl), smooth transitions, diffused shadows.
 
-3. **product_data.md**:
-   - The flagship model "DRYVIA One" details
-   - Price and category
-   - Key Features with their USPs
-   - Product description
-   - Image mapping table linking image names to their purpose
-   - Ensure all feature citations are included as comments
+3. **content-assets.md**:
+   - Navigation Map: Home, Products, Why Us, Community.
+   - Hero Copy: Standardized brand messaging.
+   - Image Context: Mapping image purposes (Hero, Macro kibble, Social Proof) to their strategic intent.
 
-4. **project_context.md**:
-   - Project Rules & Context statement
-   - Complete Tech Stack specification
-   - Architecture Guidelines (Frontend/Backend separation)
-   - Frontend Rules (Next.js specifics)
-   - Backend Rules (TypeScript patterns)
-   - Workflow instructions for developers
-
-Each file should be self-contained and reference the others where necessary. Use proper markdown formatting including headers, tables, bullet points, and code blocks for technical specifications.
+4. **technical-manifesto.md**:
+   - Tech Stack: Vite + React + TypeScript.
+   - Architecture: Atomic component structure.
+   - Styling: Tailwind CSS config requirements + Framer Motion for micro-interactions.
+   - Rules: Responsive-first, high performance, zero visual clutter.
 </Instructions>
