@@ -294,7 +294,9 @@ La page d'atterrissage **Meow Meow** est désormais officiellement en ligne. Nou
 
 Félicitations ! Le projet **Meow Meow** est entièrement opérationnel et prêt pour la production.
 
-**Démos en ligne** : [**meow-meow-lover.lovable.app**](https://meow-meow-lover.lovable.app/#) (Maquette Lovable) | [**landing-page-orpin-eta-53.vercel.app**](https://landing-page-orpin-eta-53.vercel.app/) (Production Vercel)
+**Démos en ligne** :
+- [**meow-meow-lover.lovable.app**](https://meow-meow-lover.lovable.app/#) (Maquette Lovable)
+- [**landing-page-orpin-eta-53.vercel.app**](https://landing-page-orpin-eta-53.vercel.app/) (Production Vercel)
 
 *Ce cours illustre la puissance du développement orchestré par IA. Du cadrage stratégique à la mise en production, vous avez franchi toutes les étapes de ce flux de travail assisté.*
 
